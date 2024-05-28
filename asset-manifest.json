@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.76335d96.css",
+    "main.js": "/static/js/main.66f3dcc5.js",
+    "static/js/453.c9adc0b7.chunk.js": "/static/js/453.c9adc0b7.chunk.js",
+    "static/media/Pie-chart-card.png": "/static/media/Pie-chart-card.86ac5384bfc2bc37ec9b.png",
+    "static/media/Area-bar-chart.png": "/static/media/Area-bar-chart.e43fb328e567fe182a3f.png",
+    "static/media/Guage-meter.png": "/static/media/Guage-meter.970caacb5ddded3b5c39.png",
+    "static/media/Donut-graph-chart.png": "/static/media/Donut-graph-chart.18399661157a20fbe6d8.png",
+    "static/media/Histograph-chart.png": "/static/media/Histograph-chart.562a58782c37c80b46ac.png",
+    "static/media/Bar-chart-card.png": "/static/media/Bar-chart-card.90f980d7caf047275165.png",
+    "static/media/main-logo.jpg": "/static/media/main-logo.507262e7f7a5fe8cdf2f.jpg",
+    "static/media/Line-graph-chart.png": "/static/media/Line-graph-chart.6277049ae7439aa6d439.png",
+    "index.html": "/index.html",
+    "main.76335d96.css.map": "/static/css/main.76335d96.css.map",
+    "main.66f3dcc5.js.map": "/static/js/main.66f3dcc5.js.map",
+    "453.c9adc0b7.chunk.js.map": "/static/js/453.c9adc0b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76335d96.css",
+    "static/js/main.66f3dcc5.js"
+  ]
+}
